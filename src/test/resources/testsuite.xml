@@ -7,11 +7,11 @@
         </classes>
     </test>
 
-    <test name="Edge">
-        <parameter name="browser" value="edge" />
-        <classes>
-            <class name="ca.qaguru.tests.PurchaseTests"/>
-            <class name="ca.qaguru.tests.InventoryTests"/>
-        </classes>
-    </test>
+<!--    <test name="Edge">-->
+<!--        <parameter name="browser" value="edge" />-->
+<!--        <classes>-->
+<!--            <class name="ca.qaguru.tests.PurchaseTests"/>-->
+<!--            <class name="ca.qaguru.tests.InventoryTests"/>-->
+<!--        </classes>-->
+<!--    </test>-->
 </suite>
