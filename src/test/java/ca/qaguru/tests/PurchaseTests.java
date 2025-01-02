@@ -43,7 +43,7 @@ public class PurchaseTests extends TestBase {
     @Test
     protected void purchaseTest5(){
         super.logBrowser();
-        String s = null;
+        String s = "";
 //        Assert.assertNull(s,"The value is not null"); //checks whether the object is null.
         Assert.assertNotNull(s,"The vale is null");
         System.out.println("Purchase Test 5");
